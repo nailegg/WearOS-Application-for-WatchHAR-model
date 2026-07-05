@@ -1,0 +1,31 @@
+*.iml
+.DS_Store
+**/.DS_Store
+
+.gradle/
+.idea/
+.kotlin/
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# Local datasets, device captures, and private notes are not part of this
+# portfolio snapshot.
+WatchHAR-Porting/
+*.jsonl
+*.log
+*.pid
+*.wav
+*.npz
+*.jks
+*.keystore
+
+# Trained model binaries are intentionally excluded from this portfolio repo.
+app/src/main/assets/**/*.tflite
+app/src/main/assets/*.tflite
+*.pth
+*.pt
+*.ckpt

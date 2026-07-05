@@ -1,0 +1,21 @@
+participant,label,expected_non_other_trials,observed_non_other_trials,missing_trials
+105,Alarm_clock,3,0,3
+105,Blender_in_use,3,2,1
+105,Chopping,3,2,1
+105,Clapping,3,0,3
+105,Coughing,3,0,3
+105,Drill in use,3,0,3
+105,Drinking,3,0,3
+105,Grating,3,2,1
+105,Hammering,3,0,3
+105,Knocking,3,0,3
+105,Laughing,3,0,3
+105,Microwave,3,2,1
+105,Pouring_pitcher,3,2,1
+105,Sanding,3,0,3
+105,Scratching,3,0,3
+105,Screwing,3,0,3
+105,Twisting_jar,3,2,1
+105,Vacuum in use,3,0,3
+105,Washing_Utensils,3,2,1
+105,Wiping_with_rag,3,2,1

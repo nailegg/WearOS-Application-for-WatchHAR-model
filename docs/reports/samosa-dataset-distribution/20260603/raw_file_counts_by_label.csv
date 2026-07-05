@@ -1,0 +1,28 @@
+label,raw_files,audio_hours,imu_hours_at_50hz
+Alarm_clock,57,0.302052,0.311561
+Blender_in_use,59,0.238802,0.246594
+Brushing_hair,60,0.255379,0.264439
+Chopping,59,0.249864,0.258739
+Clapping,57,0.220429,0.228256
+Coughing,57,0.158397,0.164022
+Drill in use,57,0.107949,0.111722
+Drinking,57,0.121957,0.125844
+Grating,59,0.245543,0.254261
+Hair_dryer_in_use,60,0.270408,0.280011
+Hammering,57,0.233689,0.241989
+Knocking,57,0.088706,0.09185
+Laughing,57,0.200651,0.207622
+Microwave,59,0.402317,0.416083
+Pouring_pitcher,59,0.173186,0.179078
+Sanding,57,0.240339,0.248872
+Scratching,57,0.221393,0.2292
+Screwing,57,0.254856,0.263883
+Shaver_in_use,60,0.263833,0.273206
+Toilet_flushing,60,0.123314,0.127372
+Toothbrushing,60,0.269042,0.2786
+Twisting_jar,59,0.090397,0.093606
+Vacuum in use,57,0.274045,0.283778
+Washing_Utensils,59,0.261363,0.270639
+Washing_hands,60,0.262148,0.271461
+Wiping_with_rag,59,0.286279,0.296439
+Other,117,0.655631,0.6761

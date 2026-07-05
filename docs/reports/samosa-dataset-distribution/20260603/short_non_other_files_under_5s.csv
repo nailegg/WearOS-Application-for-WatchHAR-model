@@ -1,0 +1,107 @@
+file,participant,context,label,trial,audio_duration_s,imu_duration_s_at_50hz
+103---Misc---Coughing---1.pkl,103,Misc,Coughing,1,4.558,4.72
+103---Misc---Knocking---1.pkl,103,Misc,Knocking,1,4.693,4.86
+103---Misc---Knocking---2.pkl,103,Misc,Knocking,2,4.462,4.62
+103---Misc---Knocking---3.pkl,103,Misc,Knocking,3,4.596,4.76
+103---Workshop---Drill in use---2.pkl,103,Workshop,Drill in use,2,4.229,4.38
+17---Kitchen---Twisting_jar---1.pkl,17,Kitchen,Twisting_jar,1,4.732,4.9
+17---Misc---Knocking---1.pkl,17,Misc,Knocking,1,4.307,4.46
+17---Workshop---Drill in use---1.pkl,17,Workshop,Drill in use,1,3.535,3.66
+17---Workshop---Drill in use---3.pkl,17,Workshop,Drill in use,3,3.534,3.66
+201---Kitchen---Twisting_jar---1.pkl,201,Kitchen,Twisting_jar,1,4.249,4.4
+201---Kitchen---Twisting_jar---2.pkl,201,Kitchen,Twisting_jar,2,4.809,4.98
+201---Kitchen---Twisting_jar---3.pkl,201,Kitchen,Twisting_jar,3,4.617,4.78
+201---Misc---Knocking---1.pkl,201,Misc,Knocking,1,3.979,4.12
+201---Misc---Knocking---2.pkl,201,Misc,Knocking,2,3.168,3.28
+201---Misc---Knocking---3.pkl,201,Misc,Knocking,3,3.786,3.92
+203---Misc---Knocking---1.pkl,203,Misc,Knocking,1,4.21,4.36
+203---Misc---Knocking---3.pkl,203,Misc,Knocking,3,3.998,4.14
+205---Misc---Knocking---1.pkl,205,Misc,Knocking,1,4.462,4.62
+205---Misc---Knocking---2.pkl,205,Misc,Knocking,2,4.732,4.9
+207---Bathroom---Brushing_hair---1.pkl,207,Bathroom,Brushing_hair,1,0.463,0.48
+207---Bathroom---Brushing_hair---2.pkl,207,Bathroom,Brushing_hair,2,0.618,0.64
+207---Bathroom---Brushing_hair---3.pkl,207,Bathroom,Brushing_hair,3,0.425,0.42
+207---Misc---Knocking---1.pkl,207,Misc,Knocking,1,3.921,4.06
+207---Misc---Knocking---2.pkl,207,Misc,Knocking,2,4.211,4.36
+207---Misc---Knocking---3.pkl,207,Misc,Knocking,3,4.114,4.26
+207---Workshop---Drill in use---1.pkl,207,Workshop,Drill in use,1,2.182,2.26
+207---Workshop---Drill in use---2.pkl,207,Workshop,Drill in use,2,4.771,4.94
+207---Workshop---Drill in use---3.pkl,207,Workshop,Drill in use,3,4.269,4.42
+23---Kitchen---Twisting_jar---2.pkl,23,Kitchen,Twisting_jar,2,3.766,3.9
+23---Kitchen---Twisting_jar---3.pkl,23,Kitchen,Twisting_jar,3,3.187,3.3
+25---Bathroom---Toilet_flushing---1.pkl,25,Bathroom,Toilet_flushing,1,4.519,4.68
+25---Bathroom---Toilet_flushing---2.pkl,25,Bathroom,Toilet_flushing,2,4.345,4.5
+25---Bathroom---Toilet_flushing---3.pkl,25,Bathroom,Toilet_flushing,3,4.636,4.8
+25---Misc---Knocking---2.pkl,25,Misc,Knocking,2,4.134,4.28
+25---Misc---Knocking---3.pkl,25,Misc,Knocking,3,4.192,4.34
+25---Workshop---Drill in use---1.pkl,25,Workshop,Drill in use,1,1.042,1.08
+25---Workshop---Drill in use---2.pkl,25,Workshop,Drill in use,2,3.477,3.6
+37---Bathroom---Toilet_flushing---2.pkl,37,Bathroom,Toilet_flushing,2,3.322,3.44
+37---Kitchen---Twisting_jar---1.pkl,37,Kitchen,Twisting_jar,1,2.858,2.96
+37---Kitchen---Twisting_jar---2.pkl,37,Kitchen,Twisting_jar,2,3.052,3.16
+37---Kitchen---Twisting_jar---3.pkl,37,Kitchen,Twisting_jar,3,2.666,2.76
+37---Misc---Drinking---1.pkl,37,Misc,Drinking,1,2.646,2.74
+37---Misc---Drinking---2.pkl,37,Misc,Drinking,2,4.172,4.32
+37---Misc---Drinking---3.pkl,37,Misc,Drinking,3,3.245,3.36
+37---Misc---Knocking---1.pkl,37,Misc,Knocking,1,3.94,4.08
+37---Misc---Knocking---3.pkl,37,Misc,Knocking,3,4.018,4.16
+37---Workshop---Drill in use---1.pkl,37,Workshop,Drill in use,1,4.597,4.76
+37---Workshop---Drill in use---2.pkl,37,Workshop,Drill in use,2,4.404,4.56
+41---Kitchen---Twisting_jar---2.pkl,41,Kitchen,Twisting_jar,2,3.785,3.92
+41---Kitchen---Twisting_jar---3.pkl,41,Kitchen,Twisting_jar,3,4.713,4.88
+41---Misc---Knocking---1.pkl,41,Misc,Knocking,1,3.302,3.42
+41---Workshop---Drill in use---2.pkl,41,Workshop,Drill in use,2,4.307,4.46
+41---Workshop---Drill in use---3.pkl,41,Workshop,Drill in use,3,3.863,4.0
+43---Kitchen---Twisting_jar---2.pkl,43,Kitchen,Twisting_jar,2,4.577,4.74
+43---Kitchen---Twisting_jar---3.pkl,43,Kitchen,Twisting_jar,3,4.152,4.3
+43---Misc---Knocking---1.pkl,43,Misc,Knocking,1,2.974,3.08
+43---Misc---Knocking---2.pkl,43,Misc,Knocking,2,4.751,4.92
+43---Misc---Knocking---3.pkl,43,Misc,Knocking,3,4.326,4.48
+45---Kitchen---Twisting_jar---1.pkl,45,Kitchen,Twisting_jar,1,4.867,5.04
+45---Kitchen---Twisting_jar---2.pkl,45,Kitchen,Twisting_jar,2,4.25,4.4
+45---Kitchen---Twisting_jar---3.pkl,45,Kitchen,Twisting_jar,3,4.114,4.26
+45---Misc---Knocking---1.pkl,45,Misc,Knocking,1,4.655,4.82
+47---Bathroom---Toilet_flushing---3.pkl,47,Bathroom,Toilet_flushing,3,4.191,4.34
+47---Misc---Drinking---1.pkl,47,Misc,Drinking,1,4.789,4.86
+47---Misc---Drinking---3.pkl,47,Misc,Drinking,3,4.462,4.58
+47---Workshop---Drill in use---2.pkl,47,Workshop,Drill in use,2,4.52,4.68
+47---Workshop---Drill in use---3.pkl,47,Workshop,Drill in use,3,4.307,4.46
+49---Kitchen---Pouring_pitcher---1.pkl,49,Kitchen,Pouring_pitcher,1,4.461,4.62
+49---Kitchen---Pouring_pitcher---2.pkl,49,Kitchen,Pouring_pitcher,2,4.056,4.2
+49---Kitchen---Twisting_jar---1.pkl,49,Kitchen,Twisting_jar,1,2.858,2.96
+49---Kitchen---Twisting_jar---2.pkl,49,Kitchen,Twisting_jar,2,3.361,3.48
+49---Kitchen---Twisting_jar---3.pkl,49,Kitchen,Twisting_jar,3,2.762,2.86
+49---Misc---Drinking---1.pkl,49,Misc,Drinking,1,4.655,4.82
+49---Misc---Knocking---2.pkl,49,Misc,Knocking,2,4.655,4.82
+49---Workshop---Drill in use---1.pkl,49,Workshop,Drill in use,1,4.674,4.84
+49---Workshop---Drill in use---2.pkl,49,Workshop,Drill in use,2,4.152,4.3
+49---Workshop---Vacuum in use---1.pkl,49,Workshop,Vacuum in use,1,0.483,0.5
+49---Workshop---Vacuum in use---2.pkl,49,Workshop,Vacuum in use,2,0.676,0.7
+49---Workshop---Vacuum in use---3.pkl,49,Workshop,Vacuum in use,3,0.386,0.4
+51---Bathroom---Toilet_flushing---2.pkl,51,Bathroom,Toilet_flushing,2,4.906,5.0
+51---Kitchen---Pouring_pitcher---3.pkl,51,Kitchen,Pouring_pitcher,3,4.095,4.24
+51---Kitchen---Twisting_jar---1.pkl,51,Kitchen,Twisting_jar,1,4.037,4.18
+51---Kitchen---Twisting_jar---3.pkl,51,Kitchen,Twisting_jar,3,3.167,3.28
+53---Kitchen---Twisting_jar---1.pkl,53,Kitchen,Twisting_jar,1,4.791,4.96
+53---Kitchen---Twisting_jar---3.pkl,53,Kitchen,Twisting_jar,3,3.863,4.0
+53---Workshop---Drill in use---1.pkl,53,Workshop,Drill in use,1,3.129,3.24
+53---Workshop---Drill in use---3.pkl,53,Workshop,Drill in use,3,4.538,4.7
+55---Bathroom---Toilet_flushing---2.pkl,55,Bathroom,Toilet_flushing,2,4.558,4.72
+55---Kitchen---Twisting_jar---1.pkl,55,Kitchen,Twisting_jar,1,3.419,3.54
+55---Kitchen---Twisting_jar---2.pkl,55,Kitchen,Twisting_jar,2,2.569,2.66
+55---Kitchen---Twisting_jar---3.pkl,55,Kitchen,Twisting_jar,3,2.549,2.64
+55---Misc---Drinking---1.pkl,55,Misc,Drinking,1,4.481,4.64
+55---Misc---Drinking---3.pkl,55,Misc,Drinking,3,4.596,4.76
+55---Misc---Knocking---1.pkl,55,Misc,Knocking,1,4.635,4.8
+55---Misc---Knocking---2.pkl,55,Misc,Knocking,2,4.635,4.8
+55---Misc---Knocking---3.pkl,55,Misc,Knocking,3,3.921,4.06
+55---Workshop---Drill in use---1.pkl,55,Workshop,Drill in use,1,3.979,4.12
+55---Workshop---Drill in use---2.pkl,55,Workshop,Drill in use,2,4.712,4.88
+55---Workshop---Drill in use---3.pkl,55,Workshop,Drill in use,3,3.496,3.62
+58---Kitchen---Twisting_jar---1.pkl,58,Kitchen,Twisting_jar,1,4.693,4.86
+58---Kitchen---Twisting_jar---2.pkl,58,Kitchen,Twisting_jar,2,3.902,4.04
+58---Kitchen---Twisting_jar---3.pkl,58,Kitchen,Twisting_jar,3,3.902,4.04
+58---Misc---Drinking---1.pkl,58,Misc,Drinking,1,4.153,4.3
+58---Workshop---Drill in use---2.pkl,58,Workshop,Drill in use,2,4.481,4.64
+7---Kitchen---Twisting_jar---2.pkl,7,Kitchen,Twisting_jar,2,3.728,3.86
+7---Misc---Drinking---1.pkl,7,Misc,Drinking,1,4.983,5.16
