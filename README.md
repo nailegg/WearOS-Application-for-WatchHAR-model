@@ -21,9 +21,6 @@ datasets, training scripts, and full experiment directories are not included.
 - Event-gated audio capture and PCM downsampling for the audio branch.
 - TFLite execution pipeline for IMU encoder, mel preprocessing, audio encoder,
   and multimodal feature fusion.
-- Dynamic activity-label mapping for 19-, 20-, and 27-class classifier heads.
-- EMA smoothing of activity probabilities before updating the UI.
-- Small unit tests for pure Kotlin utility behavior used by the streaming path.
 
 ## Runtime Pipeline
 
@@ -43,8 +40,7 @@ a runtime/portfolio extraction rather than a published app package.
 
 ## Included Test Model Bundle
 
-The app loads `float32/` assets by default through `ModelConfig.USE_FLOAT16 =
-false`. The included runtime bundle is:
+The included runtime bundle is:
 
 ```text
 app/src/main/assets/
