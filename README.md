@@ -1,6 +1,6 @@
-# WatchHAR Wear OS Runtime
+# WearOS Application for WatchHAR Model
 
-WatchHAR Wear OS Runtime is a portfolio snapshot of a Wear OS application built
+WearOS Application for WatchHAR Model is a portfolio snapshot of a Wear OS application built
 to run the TFLite model stages that follow the multimodal activity-recognition
 pipeline described in the WatchHAR paper. The app focuses on the smartwatch
 runtime layer: live IMU collection, event-gated microphone capture, staged
