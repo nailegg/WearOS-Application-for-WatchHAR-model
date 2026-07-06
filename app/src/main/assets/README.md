@@ -1,8 +1,7 @@
 # Runtime Model Assets
 
-Actual model binaries are not included in this repository.
-
-To run the app on a Wear OS device, place WatchHAR-compatible TFLite files here:
+This directory includes the float32 TFLite test bundle loaded by the Wear OS
+runtime:
 
 ```text
 app/src/main/assets/
@@ -12,12 +11,12 @@ app/src/main/assets/
     mel_preprocess.tflite
     audio_encoder.tflite
     feature_fusion.tflite
-  float16/
-    imu_encoder.tflite
-    mel_preprocess.tflite
-    audio_encoder.tflite
-    feature_fusion.tflite
 ```
 
-The runtime loads `float32/` by default. Set `ModelConfig.USE_FLOAT16` to `true`
-to load the optional `float16/` assets.
+The bundled `feature_fusion.tflite` is a Drop-8 19-class closed-set test
+classifier. It is included so the app can run immediately, but its recognition
+quality is modest and its excluded-class rejection is weak. See
+`docs/model-assets.md` for the label set and evaluation snapshot.
+
+`ModelConfig.USE_FLOAT16` is `false` by default. This snapshot does not include
+float16 model files or PyTorch checkpoints.

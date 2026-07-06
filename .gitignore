@@ -23,9 +23,8 @@ WatchHAR-Porting/
 *.jks
 *.keystore
 
-# Trained model binaries are intentionally excluded from this portfolio repo.
-app/src/main/assets/**/*.tflite
-app/src/main/assets/*.tflite
+# Large training checkpoints remain excluded. The small TFLite runtime test
+# bundle under app/src/main/assets/ is intentionally tracked.
 *.pth
 *.pt
 *.ckpt

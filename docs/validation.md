@@ -16,6 +16,22 @@ The unit tests cover pure Kotlin utility behavior that matters to the streaming
 pipeline: ring-buffer wraparound, moving averages, short audio buffer reads, and
 activity-label mapping.
 
+## Bundled Test Model Check
+
+The repository includes a float32 Drop-8 TFLite test bundle so the app can be
+assembled and launched without adding separate model files. The classifier is
+useful for runtime validation, but the source experiment reports only modest
+recognition quality:
+
+- File-majority accuracy: `0.8167`.
+- Window-level accuracy: `0.7184`.
+- Window-level macro F1: `0.6682`.
+- Excluded-class windows predicted as target activities: `0.9924`.
+
+The last value means the bundled model should not be treated as a robust
+open-set classifier. It verifies integration of the TFLite runtime path, not
+deployment-grade activity recognition.
+
 ## Dataset Distribution Audit
 
 The included SAMoSA distribution report is stored at
@@ -41,7 +57,6 @@ and held-out evaluation split.
 ## Known Limitations
 
 - The source snapshot does not include the original training workspace.
-- The bundled model assets need an explicit redistribution decision before a
-  public release.
+- The bundled Drop-8 model is a test asset with weak excluded-class rejection.
 - Live wearable performance depends on device microphone source behavior,
   sensor sampling consistency, and environmental audio conditions.
