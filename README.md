@@ -1,5 +1,8 @@
 # WearOS Application for WatchHAR Model
 
+> This repository contains the **on-device data collection and inference pipeline**
+> for the Galaxy Watch port of [WatchHAR (ICMI '25)](https://doi.org/10.1145/3716553.3750775).
+
 WearOS Application for WatchHAR Model is a portfolio snapshot of a Wear OS application built
 to run the TFLite model stages that follow the multimodal activity-recognition
 pipeline described in the WatchHAR paper. The app focuses on the smartwatch
